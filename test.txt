@@ -1,1 +1,4 @@
 test is my first text file in git in demogit
+test is my first text file in git in demogit
+test is my first text file in git in demogit
+test is my first text file in git in demogit
